@@ -17,12 +17,12 @@ ZKit Is A Framework Written In Pure Python For Hacking
 ## Installation
 
 ### Using Git 
-   Make Sure You Have Git Installed
+   Make Sure You Have Git Installed . 
    Run :
       ```
       git --version
       ```
-   If Doesnt Return Any Error You Have Python Installed .
+   If Doesnt Return Any Error You Have Git Installed .
    
 #### On Linux ![Linux](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)
    Open Termainal In Linux
@@ -31,7 +31,7 @@ ZKit Is A Framework Written In Pure Python For Hacking
     $ git clone https://github.com/0Zer00reZ0/ZKit
     $ CD ZKit
     $ pip install -r requirements.txt
-If Any Problem Found . You Can Share It With Us On Issue Tab .
+>If Any Problem Found . You Can Share It With Us On Issue Tab .
   
 #### On Windows ![Windows](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)
    Open CMD.exe In Windows 
@@ -70,7 +70,7 @@ Ransomware Can Easily Be Found In Builded\Ransomware\
  
 
 ## TODO
- --
+
   - [ ] Compiling Outputs Into Binary (Automatic)
   - [ ] Running More Powerfull Dos Scripts (UDP Flood)
   - [ ] Adding Screenshots
