@@ -30,7 +30,7 @@ ZKit Is A Framework Written In Pure Python For Hacking
    Open Termainal In Linux
    Make Sure You Have Pip Installed . Then Run : 
     
-    $ git clone https://github.com/0Zer00reZ0/ZKit
+    $ git clone https://github.com/000Zer000/ZKit
     $ CD ZKit
     $ pip install -r requirements.txt
 >If Any Problem Found . You Can Share It With Us On Issue Tab .
@@ -41,7 +41,7 @@ ZKit Is A Framework Written In Pure Python For Hacking
    Pip Comes Built-in With Python .
    Make Sure You Have Pip Installed . Then Run :
    
-      git clone https://github.com/0Zer00reZ0/ZKit
+      git clone https://github.com/000Zer000/ZKit
       CD ZKit
       pip install -r requirements.txt
   >If Any Problem Found . You Can Share It With Us On Issue Tab .
@@ -57,7 +57,7 @@ ZKit Is A Framework Written In Pure Python For Hacking
   If Any Problem Found . You Can Share It With Us On Issue Tab .
     
 ## License 
-   ZKit is Licensed Under Apache License 2.0 Full License At [License](https://github.com/0Zer00reZ0/ZKit/blob/master/LICENSE)
+   ZKit is Licensed Under Apache License 2.0 Full License At [License](https://github.com/000Zer000/ZKit/blob/master/LICENSE)
 
 ## Using ZKit 
 
@@ -66,9 +66,9 @@ ZKit Is A Framework Written In Pure Python For Hacking
    python ZKit.py
    ```
 Outputs Are Saved In Builded Directory .
-Trojans Can Be Easily Found In Builded\Trojan\
-KeyLoggers Can Be Found In Builded\KeyLogger\
-Ransomware Can Easily Be Found In Builded\Ransomware\
+Trojans Can Be Easily Found In \Builded\Trojan\
+KeyLoggers Can Be Found In \Builded\KeyLogger\
+Ransomware Can Easily Be Found In \Builded\Ransomware\
  
 
 ## TODO
