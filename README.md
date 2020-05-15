@@ -19,7 +19,7 @@ Bunch Of !python! Script For Hacking
 ### Using Git 
    Make Sure You Have Git Installed
    Run :
-      ```batch
+      ```
       git --version
       ```
    If Doesnt Return Any Error You Have Python Installed .
@@ -58,7 +58,7 @@ Bunch Of !python! Script For Hacking
 
 ## Using ZKit 
 
-   ```batch
+   ```
    CD ZKit 
    python ZKit.py
    ```
