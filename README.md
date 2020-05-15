@@ -1,6 +1,6 @@
 # ZKit
 
-Bunch Of !python! Script For Hacking 
+ZKit Is A Framework Written In Pure Python For Hacking
 
 ## ZKit Can : 
    - Run Dos Attacks
@@ -31,7 +31,8 @@ Bunch Of !python! Script For Hacking
     $ git clone https://github.com/0Zer00reZ0/ZKit
     $ CD ZKit
     $ pip install -r requirements.txt
-  If Any Problem Found . You Can Share It With Us On Issue Tab .
+If Any Problem Found . You Can Share It With Us On Issue Tab .
+  
 #### On Windows ![Windows](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)
    Open CMD.exe In Windows 
    You Can Install Git From Here 
