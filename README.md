@@ -38,8 +38,11 @@ ZKit Is A Framework Written In Pure Python For Hacking
   
 #### On Windows ![Windows](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)
    Open CMD.exe In Windows 
-   You Can Install Git From Here 
+   
+   You Can Install Git From [Here](www.example.com)
+   
    Pip Comes Built-in With Python .
+   
    Make Sure You Have Pip Installed . Then Run :
    
       git clone https://github.com/000Zer000/ZKit
