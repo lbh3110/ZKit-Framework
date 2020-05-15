@@ -54,7 +54,7 @@ Bunch Of !python! Script For Hacking
   If Any Problem Found . You Can Share It With Us On Issue Tab .
     
 ## License 
-   ZKit is Licensed Under Apache License 2.0 Full License At [Licence](https://github.com/0Zer00reZ0/ZKit/blob/master/README.md)
+   ZKit is Licensed Under Apache License 2.0 Full License At [License](https://github.com/0Zer00reZ0/ZKit/blob/master/LICENSE)
 
 ## Using ZKit 
 
