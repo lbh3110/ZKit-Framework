@@ -33,6 +33,7 @@ ZKit Is A Framework Written In Pure Python For Hacking
     $ git clone https://github.com/000Zer000/ZKit
     $ CD ZKit
     $ pip install -r requirements.txt
+    
 >If Any Problem Found . You Can Share It With Us On Issue Tab .
   
 #### On Windows ![Windows](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)
@@ -44,6 +45,7 @@ ZKit Is A Framework Written In Pure Python For Hacking
       git clone https://github.com/000Zer000/ZKit
       CD ZKit
       pip install -r requirements.txt
+      
   >If Any Problem Found . You Can Share It With Us On Issue Tab .
   
 
@@ -54,7 +56,8 @@ ZKit Is A Framework Written In Pure Python For Hacking
   Make Sure You Have Pip Installed . Then Run : 
        
       pip install -r requirements.txt
-  If Any Problem Found . You Can Share It With Us On Issue Tab .
+      
+  >If Any Problem Found . You Can Share It With Us On Issue Tab .
     
 ## License 
    ZKit is Licensed Under Apache License 2.0 Full License At [License](https://github.com/000Zer000/ZKit/blob/master/LICENSE)
@@ -66,14 +69,17 @@ ZKit Is A Framework Written In Pure Python For Hacking
    python ZKit.py
    ```
 Outputs Are Saved In Builded Directory .
+
 Trojans Can Be Easily Found In \Builded\Trojan\
+
 KeyLoggers Can Be Found In \Builded\KeyLogger\
+
 Ransomware Can Easily Be Found In \Builded\Ransomware\
  
 
 ## TODO
 
-  - [ ] Compiling Outputs Into Binary (Automatic)
-  - [ ] Running More Powerfull Dos Scripts (UDP Flood)
-  - [ ] Adding Screenshots
+  - Compiling Outputs Into Binary (Automatic)
+  - Running More Powerfull Dos Scripts (UDP Flood)
+  - Adding Screenshots
     
