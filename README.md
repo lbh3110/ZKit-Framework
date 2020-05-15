@@ -25,8 +25,8 @@ Using ZKit
    CD ZKit 
    python ZKit.py
    ```
-   
 Outputs Are Saved In Builded Directory .
+   
     Trojans Can Be Found In Builded\Trojan\
     KeyLoggers Can Be Found In Builded\KeyLogger\
     Ransomware Can Be Found In Builded\Ransomware\
