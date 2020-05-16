@@ -42,7 +42,7 @@ ZKit Is A Framework Written In Pure Python For Hacking
 #### On Windows ![Windows](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)
    Open CMD.exe In Windows 
    
-   You Can Install Git From [Here](www.example.com)
+   You Can Install Git From [32bit](https://github.com/git-for-windows/git/releases/download/v2.26.2.windows.1/Git-2.26.2-32-bit.exe)  [64bit](https://github.com/git-for-windows/git/releases/download/v2.26.2.windows.1/Git-2.26.2-64-bit.exe)
    
    Pip Comes Built-in With Python .
    
@@ -64,6 +64,7 @@ ZKit Is A Framework Written In Pure Python For Hacking
   Make Sure You Have Pip Installed . Then Run : 
        
       pip install -r requirements.txt
+      
   >Unzip The ZKit.zip File
   
   >If Any Problem Found . You Can Share It With Us On Issue Tab .
