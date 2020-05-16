@@ -4,10 +4,11 @@ ZKit Is A Framework Written In Pure Python For Hacking
 
 ## ZKit Can : 
    - Run Dos Attacks
-   - Build KeyLoggers , Trojans , Ransomware
+   - Build Trojans TCP And UDP
    
 ## ZKit Will Be Able To :
-
+   - Compile Payloads Automic
+   - Creating KeyLoggers , Ransomwares 
    - Easily Create And Manage BotNets
    - Run Powerfull Dos Attacks
    - Port Scanning 
