@@ -35,6 +35,8 @@ ZKit Is A Framework Written In Pure Python For Hacking
     $ CD ZKit
     $ pip install -r requirements.txt
     
+>Unzip The ZKit.zip File
+
 >If Any Problem Found . You Can Share It With Us On Issue Tab .
   
 #### On Windows ![Windows](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)
@@ -50,6 +52,8 @@ ZKit Is A Framework Written In Pure Python For Hacking
       CD ZKit
       pip install -r requirements.txt
       
+  >Unzip The ZKit.zip File
+  
   >If Any Problem Found . You Can Share It With Us On Issue Tab .
   
 
@@ -60,7 +64,8 @@ ZKit Is A Framework Written In Pure Python For Hacking
   Make Sure You Have Pip Installed . Then Run : 
        
       pip install -r requirements.txt
-      
+  >Unzip The ZKit.zip File
+  
   >If Any Problem Found . You Can Share It With Us On Issue Tab .
     
 ## License 
