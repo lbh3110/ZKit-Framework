@@ -2,6 +2,9 @@
 
 ZKit Is A Framework Written In Pure Python For Hacking
 
+Latest Version 0.9.0 (Pre-Release)
+
+
 ## ZKit Can : 
    - Run Dos Attacks
    - Build Trojans TCP And UDP
