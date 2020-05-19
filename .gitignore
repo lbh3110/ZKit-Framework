@@ -132,3 +132,6 @@ dmypy.json
 
 Gifs_Pics/
 ZKit.gif
+ 
+#else 
+*.ignore
