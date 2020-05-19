@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#README Files
+
+Gifs_Pics/
+ZKit.gif
