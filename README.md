@@ -22,6 +22,7 @@ Latest Version 0.9.0 (Pre-Release)
    - Port Scanning 
    - Host To Ip 
    - Getting All Sites Available On A Server
+   - And More ...
    
      
  
