@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Request A Feature 
+about: Suggest an idea for ZKit to be stronger
 title: ''
 labels: ''
 assignees: ''
@@ -15,6 +15,9 @@ A clear and concise description of what you want to happen.
 
 **Describe alternatives you've considered**
 A clear and concise description of any alternative solutions or features you've considered.
+
+**Describe the way to make ZKit stronger**
+A clear and concise description of any features that makes ZKit Outputs more undetectable 
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
