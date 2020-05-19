@@ -1,4 +1,4 @@
-# ZKit            [![alt tag](https://github.com/000Zer000/ZKit/blob/master/Gifs_Pics/rating.svg)]()
+# ZKit [![alt tag](https://github.com/000Zer000/ZKit/blob/master/Gifs_Pics/rating.svg)]()
 
 
 ZKit Is A Framework Written In Pure Python For Hacking
@@ -9,7 +9,7 @@ Latest Version 0.9.0 (Pre-Release)
 
 [![alt tag](https://github.com/000Zer000/ZKit/blob/master/Gifs_Pics/ZKit.gif)]()
 
-
+[Documentation](https://github.com/000Zer000/ZKit_Framework/wiki) is semi-complete but installing issues and solutions and using it is now complete 
 ## ZKit Can : 
    - Run Dos Attacks
    - Build Trojans TCP And UDP
