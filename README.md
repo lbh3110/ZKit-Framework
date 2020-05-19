@@ -10,10 +10,10 @@ Latest Version 0.9.0 (Pre-Release)
 ## ZKit Can : 
    - Run Dos Attacks
    - Build Trojans TCP And UDP
-   
+   - Build KeyLoggers
 ## ZKit Will Be Able To :
    - Compile Payloads Automic
-   - Creating KeyLoggers , Ransomwares 
+   - Creating Ransomwares 
    - Easily Create And Manage BotNets
    - Run Powerfull Dos Attacks
    - Port Scanning 
