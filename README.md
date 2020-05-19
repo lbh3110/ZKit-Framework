@@ -94,11 +94,12 @@ Trojans Can Be Easily Found In \Builded\Trojan\
 KeyLoggers Can Be Found In \Builded\KeyLogger\
 
 Ransomware Can Easily Be Found In \Builded\Ransomware\
+
+If Any Issue found please open an issue to solve it
  
 
 ## TODO
 
   - Compiling Outputs Into Binary (Automatic)
   - Running More Powerfull Dos Scripts (UDP Flood)
-  - Adding Screenshots
     
