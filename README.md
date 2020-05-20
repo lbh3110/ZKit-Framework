@@ -41,10 +41,9 @@ Latest Version 0.9.0 (Pre-Release)
    Make Sure You Have Pip Installed . Then Run : 
     
     $ git clone https://github.com/000Zer000/ZKit-Framework
-    $ CD ZKit
+    $ CD ZKit-Framework
     $ pip install -r requirements.txt
     
->Unzip The ZKit.zip File
 
 >If Any Problem Found . You Can Share It With Us On Issue Tab .
   
@@ -58,7 +57,7 @@ Latest Version 0.9.0 (Pre-Release)
    Make Sure You Have Pip Installed . Then Run :
    
       git clone https://github.com/000Zer000/ZKit-Framework
-      CD ZKit
+      CD ZKit-Framework
       pip install -r requirements.txt
       
   >Unzip The ZKit.zip File
@@ -71,27 +70,26 @@ Latest Version 0.9.0 (Pre-Release)
   Easily Download It From This Page .
   Open CMD.exe On Windows Or Terminal On Linux
   Make Sure You Have Pip Installed . Then Run : 
-       
-      pip install -r requirements.txt
-      
-  >Unzip The ZKit.zip File
+  > Unzip The ZKit-Frmaework-master.zip File
   
+      pip install -r requirements.txt
+     
+    
   >If Any Problem Found . You Can Share It With Us On Issue Tab .
     
 ## License 
-   ZKit is Licensed Under Apache License 2.0 Full License At [License](https://github.com/000Zer000/ZKit-Framework/blob/master/LICENSE)
+   ZKit-Frmework is Licensed Under Apache License 2.0 Full License At [License](https://github.com/000Zer000/ZKit-Framework/blob/master/LICENSE)
 
 ## Using ZKit 
 
    ```
-   CD ZKit 
    python ZKit.py
    ```
 Outputs Are Saved In Builded Directory .
 
 Trojans Can Be Easily Found In \Builded\Trojan\
 
-KeyLoggers Can Be Found In \Builded\KeyLogger\
+KeyLoggers Can Be Easily Found In \Builded\KeyLogger\
 
 Ransomware Can Easily Be Found In \Builded\Ransomware\
 
