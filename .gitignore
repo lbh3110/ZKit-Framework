@@ -129,9 +129,12 @@ dmypy.json
 .pyre/
 
 #README Files
+Gifs_Pics/*.gif
+Gifs_Pics/*.svg
+*.svg
+*.gif
 
-Gifs_Pics/
-ZKit.gif
- 
 #else 
+**/*.ignore
+**/**/*.ignore
 *.ignore
