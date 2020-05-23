@@ -1,6 +1,5 @@
 'ZKit-Framework Github : https://github.com/000Zer000/ZKit-Framework'
 
-from sys import platform
 __all__ = ["why_do_you_want_to_import_this"]
 
 
@@ -17,7 +16,7 @@ __version__ = 'WPR_0.9.1'
 __license__ = 'Apache License 2.0'
 __status__ = 'Developing'
 
-if __name__ == "__main__" and platform.startswith('win'):
+if __name__ == "__main__" :
     try:
         from os import path
         from time import sleep as Sleep
@@ -104,6 +103,3 @@ keylogger -m UDP_OR_TCP -f FILENAME -h HOST_OR_IP -p PORT
         except IndexError:
             print('Invalid Input type help to see available commands')
 
-elif not platform.startswith('win'):
-    print("Sorry ran on wrong os ." +
-          "this version is comptable with Windows but your Operating System is {}".format(platform))
