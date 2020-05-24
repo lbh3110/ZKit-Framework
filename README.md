@@ -14,6 +14,7 @@ Special Thank to this project's first watcher and stargazer [Flechablanca19](htt
  Are you after a hack or want to safe-delete a file or a drive or a whole computer ??? 
  
  Chackout my new project [ZShredder](https://github.com/000Zer000/ZShredder)
+ 
  ZShredder can shred a file a folder or even a drive or can shred empty space available in a drive
  
 If any issues found . please let us know to make this project stronger
@@ -25,6 +26,7 @@ If any issues found . please let us know to make this project stronger
    - Run Dos Attacks
    - Build Trojans TCP And UDP
    - Build KeyLoggers
+   - Payload could be easily detected but now it uses an encryption method to fool the AVs . Virus total results are Without : 3/59 and With new update : 0/59 
 ## ZKit will be able to :
    Compile to diffrent operating systems 
 
